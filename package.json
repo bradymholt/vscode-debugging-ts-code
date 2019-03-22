@@ -1,0 +1,11 @@
+{
+  "name": "ts-code-debugging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Brady Holt",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^8.0.3"
+  }
+}
