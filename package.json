@@ -6,6 +6,6 @@
   "author": "Brady Holt",
   "license": "MIT",
   "dependencies": {
-    "ts-node": "^8.0.3"
+    "ts-node": "^8.10.2"
   }
 }
